@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c2271e90880b4b9bb458fe3289a417a, type: 3}
+  m_Name: Stage3
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 6570819974942344324, guid: d67f4f5205ea84ae588b9925ef0fed3f, type: 3}
+  - {fileID: 6570819974942344324, guid: a114fdee92df9485e96c14674cead7d4, type: 3}
+  - {fileID: 6570819974942344324, guid: 128f9eaf19c2645bab3c8b3af8006ae1, type: 3}
+  - {fileID: 6570819974942344324, guid: 6a1549fd335e24a56bed1f0e7fbb9c21, type: 3}
+  _innerWalls: {fileID: 2100000, guid: 45aa2a94cd9bd40e4a90e3e10043cb88, type: 2}
+  _outsideWalls: {fileID: 2100000, guid: 0e7441ce168b941d9890189e636a2eec, type: 2}
+  _skybox: {fileID: 2100000, guid: 5be911952201c4cc2aa466a1bafb8c38, type: 2}
